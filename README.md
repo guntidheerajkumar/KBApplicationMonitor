@@ -14,3 +14,7 @@ KBPerformanceMonitor.SharedInstance().StartMonitoringWithConfiguration((obj) => 
 KBPerformanceMonitor.SharedInstance().AppVersionHidden = true;
 KBPerformanceMonitor.SharedInstance().DeviceVersionHidden = true;
 ```
+
+###Output
+
+![](https://github.com/guntidheerajkumar/KBApplicationMonitor/blob/master/Output.gif)
